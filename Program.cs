@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace newton_interpolacion
+namespace lagrange_interpolacion
 {
     class Program
     {
