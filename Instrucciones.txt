@@ -1,0 +1,6 @@
+El programa sólo necesita el dato que se ocupa saber
+el usuario no se ve obligado a poner todos los datos
+ocupa un archivo, el cual ya está y con ese nombre 
+extrae los datos, en el código ocupa la dirección exacta
+donde se encuentra el documento con datos, y en donde los va a
+depositar
